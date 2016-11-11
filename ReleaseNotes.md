@@ -1,3 +1,5 @@
+### New in 1.4.1 (Released 2016-11-11)
+* Use optional CompressionLevel for compress
 ### New in 1.4.0 (Released 2015/10/26)
 * This is the first release being tracked in the release notes file.
 * Fixed bug in unit test DBTests.ShouldInsertAListOfObjectsToStore
