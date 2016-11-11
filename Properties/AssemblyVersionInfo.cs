@@ -6,6 +6,8 @@ using System.Reflection;
 [assembly: AssemblyFileVersionAttribute("1.4.1.0")]
 namespace System {
     internal static class AssemblyVersionInformation {
-        internal const string Version = "1.4.1.0";
+        internal const System.String AssemblyVersion = "1.4.1.0";
+        internal const System.String AssemblyInformationalVersion = "1.4.1.0";
+        internal const System.String AssemblyFileVersion = "1.4.1.0";
     }
 }
